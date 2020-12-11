@@ -1,5 +1,5 @@
 # EverestProjectFinderBot
-Everest_bot is a simple Telegram bot which searches Everest projects by name.
+Everest_bot is a simple Telegram bot which gets full  Everest projects information by name.
 
 # Sample:
 
